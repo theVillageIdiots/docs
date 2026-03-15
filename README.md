@@ -2,6 +2,8 @@
 
 Central documentation hub for the villageIdiots organization — covering system architecture, setup guides, development roadmaps, operations runbooks, research findings, and the OpenClaw skills catalog.
 
+Docs Website: [Documentations](https://thevillageidiots.gitbook.io/thevillageidiots-docs)
+
 ## Navigation
 
 | Section | Description |
